@@ -34,27 +34,27 @@ function Home()
 
                 <div className="home_input">
                     <div>
-                    <label for="date">Check In</label>
+                    <label >Check In</label>
                     <input type="date" placeholder="Name" ></input>
                     </div>
 
                     <div>
-                    <label for="date">Check Out</label>
+                    <label >Check Out</label>
                     <input type="date" placeholder="Name" ></input>
                     </div>
 
                     <div>
-                    <label for="number">Adults</label>
-                    <input type="number" value="1" ></input>
+                    <label >Adults</label>
+                    <input type="number" placeholder="1" ></input>
                     </div>
 
                     <div>
-                    <label for="number">Childs</label>
-                    <input type="number" value="0" ></input>
+                    <label >Childs</label>
+                    <input type="number" placeholder="0" ></input>
                     </div>
 
                     <div>
-                        <label for="">.</label>
+                        <label>.</label>
                         <button type="button">Search</button>
                     </div>
                    
